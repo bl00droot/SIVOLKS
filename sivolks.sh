@@ -5,10 +5,10 @@
 
 # Aqui é a pasta aonde foram salvos os arquivos do sivolks. 
 # Alterar caso necessidade do seu home.
-#PATH=/home/sn/Bluezone/
-	#siv_home="/home/sn/Bluezone/"
-	siv_home="/home/sn/Bluezone"
-        user_dir="/home/sn"
+#PATH=/home/user/Bluezone/
+	#siv_home="/home/user/Bluezone/"
+	siv_home="/home/user/Bluezone"
+        user_dir="/home/user"
 	siv_icon="/usr/share/pixmaps"
 #Faze de teste conferimos a existencia da pasta caso não existir. 
 #...baixar o sivolks e criar as determinadas pastas
