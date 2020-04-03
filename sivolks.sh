@@ -1,6 +1,5 @@
 #!/bin/bash
 # Criado por Christian para o funcionamento do SIVOLKS
-# DON'T REMOVE THE CREDITS BITCH...
 ##### Requirements: wget, curl and wine.
 
 # Aqui é a pasta aonde foram salvos os arquivos do sivolks. 
